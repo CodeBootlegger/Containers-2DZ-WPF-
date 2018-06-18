@@ -1,0 +1,15 @@
+C:\Users\Thomas\Desktop\2DZ\2DZ\bin\Debug\2DZ.exe.config
+C:\Users\Thomas\Desktop\2DZ\2DZ\bin\Debug\2DZ.exe
+C:\Users\Thomas\Desktop\2DZ\2DZ\bin\Debug\2DZ.pdb
+C:\Users\Thomas\Desktop\2DZ\2DZ\obj\Debug\2DZ.csprojAssemblyReference.cache
+C:\Users\Thomas\Desktop\2DZ\2DZ\obj\Debug\MainWindow.g.cs
+C:\Users\Thomas\Desktop\2DZ\2DZ\obj\Debug\App.g.cs
+C:\Users\Thomas\Desktop\2DZ\2DZ\obj\Debug\2DZ_MarkupCompile.cache
+C:\Users\Thomas\Desktop\2DZ\2DZ\obj\Debug\2DZ_MarkupCompile.lref
+C:\Users\Thomas\Desktop\2DZ\2DZ\obj\Debug\MainWindow.baml
+C:\Users\Thomas\Desktop\2DZ\2DZ\obj\Debug\2DZ.g.resources
+C:\Users\Thomas\Desktop\2DZ\2DZ\obj\Debug\_2DZ.Properties.Resources.resources
+C:\Users\Thomas\Desktop\2DZ\2DZ\obj\Debug\2DZ.csproj.GenerateResource.cache
+C:\Users\Thomas\Desktop\2DZ\2DZ\obj\Debug\2DZ.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\2DZ\2DZ\obj\Debug\2DZ.exe
+C:\Users\Thomas\Desktop\2DZ\2DZ\obj\Debug\2DZ.pdb
